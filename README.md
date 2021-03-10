@@ -8,7 +8,7 @@ Building blog project allows me to get to know how SPA works. In addition, the b
 
 ## Demo
 
-[Demo Link](https://oscarwang913.github.io/react-hook-blog/)
+[Demo Link](https://oscarwang913.github.io/My-SPA-Blog/#/)
 
 ![Imgur](https://i.imgur.com/oZOd2Ih.png)
 
