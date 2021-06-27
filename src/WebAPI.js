@@ -92,3 +92,5 @@ export const registerAccount = (username, nickname, password) => {
     }),
   }).then((res) => res.json());
 };
+
+export const abc = () => {};
