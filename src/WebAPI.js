@@ -94,5 +94,5 @@ export const registerAccount = (username, nickname, password) => {
 };
 
 export const abc = () => {
-  return fetch()
+  return "abc";
 };
